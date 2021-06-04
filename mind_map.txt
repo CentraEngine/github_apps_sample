@@ -5,4 +5,3 @@ graph TD
     C -->E
     C -->F
   
-  click C "https://yahoo.co.jp"
