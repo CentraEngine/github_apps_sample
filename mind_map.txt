@@ -1,8 +1,1 @@
-    graph TD
-    A -->B
-    B --> C
-    C -->D
-    C -->E
-    C -->F
-    F -->Z
-    click F "https://yahoo.co.jp"
+graph TD;A-->F;click F "https://yahoo.co.jp"
