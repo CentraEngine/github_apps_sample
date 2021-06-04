@@ -5,4 +5,4 @@
     C -->E
     C -->F
     F -->Z
-    click F "https://yahoo.co.jp"
+    click F 'https://yahoo.co.jp'
