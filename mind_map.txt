@@ -5,9 +5,7 @@ knowledge-->F
 cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
-
-click cognitiveload_theory "http://yahoo.co.jp"
-
+style cognitiveload_theory fill:#0ff
 
 
 draw_mermaid --> mermaid.js
