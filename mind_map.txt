@@ -6,7 +6,7 @@ cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
 
-click cognitiveload_theory "http://files.realspellers.org/PetesFolder"
+click cognitiveload_theory "http://yahoo.co.jp"
 
 
 
