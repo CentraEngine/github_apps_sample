@@ -1,8 +1,8 @@
 graph TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone];
-    C -->|Three| F[fa:fa-car Car];
+    A -->B
+    B --> C
+    C -->D
+    C -->E
+    C -->F
   
-  click C "https://yahoo.co.jp";
+  click C "https://yahoo.co.jp"
