@@ -2,7 +2,7 @@ graph TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
+    C -->|Two| E[iPhone];
+    C -->|Three| F[fa:fa-car Car];
   
-  click C "https://yahoo.co.jp"
+  click C "https://yahoo.co.jp";
