@@ -6,7 +6,7 @@ knowledge-->F
 cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
-click cognitiveload_theory "https://files.realspellers.org/PetesFolder/Cognitive%20Load%20Stuff%20for%20Matt/Shnotz%20&%20K%20Cognitive%20Load%202007.pdf"
+click cognitiveload_theory "http://files.realspellers.org/PetesFolder/Cognitive%20Load%20Stuff%20for%20Matt/Shnotz%20&%20K%20Cognitive%20Load%202007.pdf"
 
 
 draw_mermaid --> mermaid.js
