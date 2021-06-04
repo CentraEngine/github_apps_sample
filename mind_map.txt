@@ -1,1 +1,28 @@
-graph TD;A-->F;click F "https://yahoo.co.jp"
+
+graph LR
+knowledge-->cognitive_load
+knowledge-->F
+knowledge-->F
+cognitive_load --> what_is_cognitiveload
+cognitive_load --> cognitiveload_theory
+
+    A-->Google
+    click Google "https://www.google.co.jp/"
+
+
+draw_mermaid --> mermaid.js
+
+mermaid.js --> 01_window.addEventListener_load
+mermaid.js --> 02_contentLoaded
+02_contentLoaded --> 01_mermaidAPI.getConfig
+02_contentLoaded --> 02_mermaid.init
+
+
+02_mermaid.init --> 01_mermaidAPI.getConfig_
+02_mermaid.init --> 05_document.querySelectorAll_.mermaid
+
+02_mermaid.init --> 10_mermaidAPI.updateSiteConfig
+02_mermaid.init --> 15_utils.initIdGeneratior
+02_mermaid.init --> 20_element.innerHTML
+02_mermaid.init --> 25_utils.detectInit
+02_mermaid.init --> 30_mermaidAPI.render
