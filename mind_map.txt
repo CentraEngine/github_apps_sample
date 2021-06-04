@@ -1,4 +1,4 @@
-Graph LR
+graph LR
 knowledge-->cognitive_load
 knowledge-->F
 knowledge-->F
