@@ -1,10 +1,4 @@
 
 graph LR
-knowledge-->cognitive_load
-knowledge-->F
-knowledge-->F
-cognitive_load --> what_is_cognitiveload
-cognitive_load --> cognitiveload_theory
-
     A-->Google
     click Google "https://www.google.co.jp/"
