@@ -6,8 +6,7 @@ cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
     A-->Google
-    click A callback "クリック"
-    click Google "https://www.google.co.jp/" "リンク指定"
+    click Google "https://www.google.co.jp/"
 
 
 draw_mermaid --> mermaid.js
