@@ -9,6 +9,8 @@ cognitive_load --> cognitiveload_theory
 click cognitiveload_theory "http://files.realspellers.org/PetesFolder/Cognitive%20Load%20Stuff%20for%20Matt/Shnotz%20&%20K%20Cognitive%20Load%202007.pdf"
 style cognitiveload_theory fill:aqua
 
+example --> draw_mermaid
+
 draw_mermaid --> mermaid.js
 
 mermaid.js --> 01_window.addEventListener_load
@@ -25,3 +27,9 @@ mermaid.js --> 02_contentLoaded
 02_mermaid.init --> 20_element.innerHTML
 02_mermaid.init --> 25_utils.detectInit
 02_mermaid.init --> 30_mermaidAPI.render
+
+
+
+
+
+example --> draw_dagre
