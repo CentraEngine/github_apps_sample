@@ -34,6 +34,9 @@ mermaid.js --> 02_contentLoaded
 02_mermaid.init --> 30_mermaidAPI.render
 
 
+click 000005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
+style 000005_d3 fill:aqua
+
 
 
 
