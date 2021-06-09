@@ -13,8 +13,10 @@ jupyternode --> notebook
 notebook --> example
 example --> 000005_d3
 example --> 000010_mermaid
+example --> 000015_dagre
 example --> 000100_react
 example --> 000105_react_typescript
+
 
 000010_mermaid --> mermaid.js
 
@@ -37,4 +39,3 @@ mermaid.js --> 02_contentLoaded
 
 
 
-example --> draw_dagre
