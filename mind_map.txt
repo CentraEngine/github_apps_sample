@@ -17,6 +17,7 @@ knowledge-->cognitive_load
 cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
+galle.world--> priority
 
 galle.world--> knowledge_in[knowledge]
 knowledge_in --> GithubApps_OAuthFlow.html
@@ -54,10 +55,11 @@ mermaid.js --> 02_contentLoaded
 02_mermaid.init --> 30_mermaidAPI.render
 
 
-
-galle.world
 click galle.world "http://galle.world/home"
 style galle.world fill:aqua
+
+click priority "http://galle.world/priority"
+style priority fill:aqua
 
 
 click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
