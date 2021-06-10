@@ -59,16 +59,17 @@ mermaid.js --> 02_contentLoaded
 
 click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
 style GithubApps_OAuthFlow.html fill:aqua
-click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
-style 00005_d3 fill:aqua
-click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
-style 00005_d3 fill:aqua
-click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
-style 00005_d3 fill:aqua
-click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
-style 00005_d3 fill:aqua
-click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
-style 00005_d3 fill:aqua
+click GithubApps_REST.html "http://galle.world/knowledge/GithubApps_REST"
+style GithubApps_REST.html fill:aqua
+click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
+style GithubApps_OAuthFlow.html fill:aqua
+click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
+style GithubApps_OAuthFlow.html fill:aqua
+click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
+style GithubApps_OAuthFlow.html fill:aqua
+click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
+style GithubApps_OAuthFlow.html fill:aqua
+
 
 
 
