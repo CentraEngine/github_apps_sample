@@ -56,7 +56,7 @@ mermaid.js --> 02_contentLoaded
 
 
 galle.world
-click galle.world "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
+click galle.world "http://galle.world/home"
 style galle.world fill:aqua
 
 
