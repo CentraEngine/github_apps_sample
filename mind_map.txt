@@ -2,6 +2,7 @@ graph LR
 
 external --> knowledge
 internal --> centraengine.com
+internal --> galle.world
 
 subgraph web
   external
@@ -17,7 +18,7 @@ cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
 
-centraengine.com --> knowledge_in[knowledge]
+galle.tech--> knowledge_in[knowledge]
 knowledge_in --> GithubApps_OAuthFlow.html
 knowledge_in --> GithubApps_REST.html
 knowledge_in --> GithubApps_REST_RateLimit.html
@@ -54,7 +55,9 @@ mermaid.js --> 02_contentLoaded
 
 
 
-
+galle.world
+click galle.world "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
+style galle.world fill:aqua
 
 
 click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
