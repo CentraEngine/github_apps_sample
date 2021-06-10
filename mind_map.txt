@@ -9,7 +9,6 @@ subgraph web
   internal
 end
 
-centraengine.com
 click centraengine.com "http://centraengine.com/home"
 style centraengine.com fill:aqua
 
