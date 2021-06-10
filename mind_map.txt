@@ -58,8 +58,6 @@ mermaid.js --> 02_contentLoaded
 click galle.world "http://galle.world/home"
 style galle.world fill:aqua
 
-click priority "http://galle.world/priority"
-style priority fill:aqua
 
 
 click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
