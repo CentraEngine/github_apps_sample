@@ -18,7 +18,7 @@ cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
 
-galle.tech--> knowledge_in[knowledge]
+galle.world--> knowledge_in[knowledge]
 knowledge_in --> GithubApps_OAuthFlow.html
 knowledge_in --> GithubApps_REST.html
 knowledge_in --> GithubApps_REST_RateLimit.html
