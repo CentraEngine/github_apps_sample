@@ -16,9 +16,14 @@ knowledge-->cognitive_load
 cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
-click cognitiveload_theory "http://files.realspellers.org/PetesFolder/Cognitive%20Load%20Stuff%20for%20Matt/Shnotz%20&%20K%20Cognitive%20Load%202007.pdf"
-style cognitiveload_theory fill:aqua
 
+centraengine.com --> knowledge_in[knowledge]
+knowledge_in --> GithubApps_OAuthFlow.html
+knowledge_in --> GithubApps_REST.html
+knowledge_in --> GithubApps_REST_RateLimit.html
+knowledge_in --> Python_ftplib.html
+knowledge_in --> dependent_module_ranking_used_in_visualization_libraries.html
+knowledge_in --> pdDataFrame2htmltable.html
 centraengine.com --> jupyternode
 
 jupyternode --> notebook
@@ -51,3 +56,7 @@ mermaid.js --> 02_contentLoaded
 click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
 style 00005_d3 fill:aqua
 
+
+
+click cognitiveload_theory "http://files.realspellers.org/PetesFolder/Cognitive%20Load%20Stuff%20for%20Matt/Shnotz%20&%20K%20Cognitive%20Load%202007.pdf"
+style cognitiveload_theory fill:aqua
