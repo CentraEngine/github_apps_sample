@@ -9,7 +9,7 @@ subgraph web
 end
 
 centraengine.com
-click centraengine.com "http://centraengine.com/home"
+click centraengine.com "http://centraengine.com/"
 style centraengine.com fill:aqua
 
 knowledge-->cognitive_load
@@ -57,7 +57,7 @@ mermaid.js --> 02_contentLoaded
 
 
 
-click GithubApps_OAuthFlow.html "http://centraengine.com/knowledge/GithubApps_OAuthFlow.html"
+click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
 style GithubApps_OAuthFlow.html fill:aqua
 click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
 style 00005_d3 fill:aqua
