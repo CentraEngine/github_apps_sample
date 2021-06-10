@@ -4,6 +4,15 @@ graph LR
 external --> knowledge
 internal --> centraengine.com
 
+subgraph web
+  external
+  internal
+end
+
+centraengine.com
+click centraengine.com "http://centraengine.com/home"
+style centraengine.com fill:aqua
+
 knowledge-->cognitive_load
 cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
