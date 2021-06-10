@@ -67,7 +67,7 @@ click Python_ftplib.html "http://galle.world/knowledge/Python_ftplib.html"
 style Python_ftplib.html fill:aqua
 click dependent_module_ranking_used_in_visualization_libraries.html "http://galle.world/knowledge/dependent_module_ranking_used_in_visualization_libraries.html"
 style dependent_module_ranking_used_in_visualization_libraries.html fill:aqua
-click pdDataFrame2htmltable.html "pdDataFrame2htmltable.html"
+click pdDataFrame2htmltable.html "http://galle.world/knowledge/pdDataFrame2htmltable.html"
 style pdDataFrame2htmltable.html fill:aqua
 
 
