@@ -78,6 +78,8 @@ style pdDataFrame2htmltable.html fill:aqua
 click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
 style 00005_d3 fill:aqua
 
+click 00100_react "https://galle.world/knowledge/notebook/example/00100_react"
+style 00100_react fill:aqua
 
 
 click cognitiveload_theory "http://files.realspellers.org/PetesFolder/Cognitive%20Load%20Stuff%20for%20Matt/Shnotz%20&%20K%20Cognitive%20Load%202007.pdf"
