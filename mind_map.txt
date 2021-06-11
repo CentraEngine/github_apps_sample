@@ -81,6 +81,9 @@ style 00005_d3 fill:aqua
 click 00100_react "https://galle.world/knowledge/notebook/example/00100_react"
 style 00100_react fill:aqua
 
+click 00105_react_typescript "https://galle.world/knowledge/notebook/example/00105_react_typescript"
+style 00105_react_typescript fill:aqua
+
 
 click cognitiveload_theory "http://files.realspellers.org/PetesFolder/Cognitive%20Load%20Stuff%20for%20Matt/Shnotz%20&%20K%20Cognitive%20Load%202007.pdf"
 style cognitiveload_theory fill:aqua
