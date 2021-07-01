@@ -2,7 +2,7 @@ graph LR
 
 external --> knowledge
 internal --> centraengine.com
-internal --> galle.world
+internal --> centraengine.work
 
 subgraph web
   external
@@ -18,7 +18,7 @@ cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
 
-galle.world--> knowledge_in[knowledge]
+centraengine.work--> knowledge_in[knowledge]
 knowledge_in --> GithubApps_OAuthFlow.html
 knowledge_in --> GithubApps_REST.html
 knowledge_in --> GithubApps_REST_RateLimit.html
@@ -54,34 +54,34 @@ mermaid.js --> 02_contentLoaded
 02_mermaid.init --> 30_mermaidAPI.render
 
 
-click galle.world "http://galle.world/home"
-style galle.world fill:aqua
+click centraengine.work "http://centraengine.work/home"
+style centraengine.work fill:aqua
 
 
 
-click GithubApps_OAuthFlow.html "http://galle.world/knowledge/GithubApps_OAuthFlow.html"
+click GithubApps_OAuthFlow.html "http://centraengine.work/knowledge/GithubApps_OAuthFlow.html"
 style GithubApps_OAuthFlow.html fill:aqua
-click GithubApps_REST.html "http://galle.world/knowledge/GithubApps_REST"
+click GithubApps_REST.html "http://centraengine.work/knowledge/GithubApps_REST"
 style GithubApps_REST.html fill:aqua
-click GithubApps_REST_RateLimit.html "http://galle.world/knowledge/GithubApps_REST_RateLimit.html"
+click GithubApps_REST_RateLimit.html "http://centraengine.work/knowledge/GithubApps_REST_RateLimit.html"
 style GithubApps_REST_RateLimit.html fill:aqua
-click Python_ftplib.html "http://galle.world/knowledge/Python_ftplib.html"
+click Python_ftplib.html "http://centraengine.work/knowledge/Python_ftplib.html"
 style Python_ftplib.html fill:aqua
-click dependent_module_ranking_used_in_visualization_libraries.html "http://galle.world/knowledge/dependent_module_ranking_used_in_visualization_libraries.html"
+click dependent_module_ranking_used_in_visualization_libraries.html "http://centraengine.work/knowledge/dependent_module_ranking_used_in_visualization_libraries.html"
 style dependent_module_ranking_used_in_visualization_libraries.html fill:aqua
-click pdDataFrame2htmltable.html "http://galle.world/knowledge/pdDataFrame2htmltable.html"
+click pdDataFrame2htmltable.html "http://centraengine.work/knowledge/pdDataFrame2htmltable.html"
 style pdDataFrame2htmltable.html fill:aqua
 
 
 
 
-click 00005_d3 "https://galle.world/knowledge/notebook/example/00005_d3"
+click 00005_d3 "https://centraengine.work/knowledge/notebook/example/00005_d3"
 style 00005_d3 fill:aqua
 
-click 00100_react "https://galle.world/knowledge/notebook/example/00100_react"
+click 00100_react "https://centraengine.work/knowledge/notebook/example/00100_react"
 style 00100_react fill:aqua
 
-click 00105_react_typescript "https://galle.world/knowledge/notebook/example/00105_react_typescript"
+click 00105_react_typescript "https://centraengine.work/knowledge/notebook/example/00105_react_typescript"
 style 00105_react_typescript fill:aqua
 
 
