@@ -33,6 +33,7 @@ example --> 00005_d3
 example --> 00010_mermaid
 example --> 00015_dagre
 example --> 00100_react
+example --> 00110_react_action
 example --> 00105_react_typescript
 
 
@@ -80,6 +81,9 @@ style 00005_d3 fill:aqua
 
 click 00100_react "https://centraengine.work/knowledge/notebook/example/00100_react"
 style 00100_react fill:aqua
+
+click 00110_react_action "https://centraengine.work/knowledge/notebook/example/00110_react_action"
+style 00110_react_action fill:aqua
 
 click 00105_react_typescript "https://centraengine.work/knowledge/notebook/example/00105_react_typescript"
 style 00105_react_typescript fill:aqua
