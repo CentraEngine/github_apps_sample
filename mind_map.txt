@@ -73,8 +73,8 @@ click dependent_module_ranking_used_in_visualization_libraries.html "https://cen
 style dependent_module_ranking_used_in_visualization_libraries.html fill:aqua
 click pdDataFrame2htmltable.html "https://centraengine.work/knowledge/pdDataFrame2htmltable.html"
 style pdDataFrame2htmltable.html fill:aqua
-click pdDataFrame2htmltable.html "https://centraengine.work/knowledge/keyinput_javascript.html"
-style pdDataFrame2htmltable.html fill:aqua
+click keyinput_javascript.html "https://centraengine.work/knowledge/keyinput_javascript.html"
+style keyinput_javascript.html fill:aqua
 
 
 
