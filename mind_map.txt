@@ -25,6 +25,7 @@ knowledge_in --> GithubApps_REST_RateLimit.html
 knowledge_in --> Python_ftplib.html
 knowledge_in --> dependent_module_ranking_used_in_visualization_libraries.html
 knowledge_in --> pdDataFrame2htmltable.html
+knowledge_in --> keyinput_javascript.html
 centraengine.com --> jupyternode
 
 jupyternode --> notebook
@@ -60,17 +61,19 @@ style centraengine.work fill:aqua
 
 
 
-click GithubApps_OAuthFlow.html "http://centraengine.work/knowledge/GithubApps_OAuthFlow.html"
+click GithubApps_OAuthFlow.html "https://centraengine.work/knowledge/GithubApps_OAuthFlow.html"
 style GithubApps_OAuthFlow.html fill:aqua
-click GithubApps_REST.html "http://centraengine.work/knowledge/GithubApps_REST"
+click GithubApps_REST.html "https://centraengine.work/knowledge/GithubApps_REST"
 style GithubApps_REST.html fill:aqua
-click GithubApps_REST_RateLimit.html "http://centraengine.work/knowledge/GithubApps_REST_RateLimit.html"
+click GithubApps_REST_RateLimit.html "https://centraengine.work/knowledge/GithubApps_REST_RateLimit.html"
 style GithubApps_REST_RateLimit.html fill:aqua
-click Python_ftplib.html "http://centraengine.work/knowledge/Python_ftplib.html"
+click Python_ftplib.html "https://centraengine.work/knowledge/Python_ftplib.html"
 style Python_ftplib.html fill:aqua
-click dependent_module_ranking_used_in_visualization_libraries.html "http://centraengine.work/knowledge/dependent_module_ranking_used_in_visualization_libraries.html"
+click dependent_module_ranking_used_in_visualization_libraries.html "https://centraengine.work/knowledge/dependent_module_ranking_used_in_visualization_libraries.html"
 style dependent_module_ranking_used_in_visualization_libraries.html fill:aqua
-click pdDataFrame2htmltable.html "http://centraengine.work/knowledge/pdDataFrame2htmltable.html"
+click pdDataFrame2htmltable.html "https://centraengine.work/knowledge/pdDataFrame2htmltable.html"
+style pdDataFrame2htmltable.html fill:aqua
+click pdDataFrame2htmltable.html "https://centraengine.work/knowledge/keyinput_javascript.html"
 style pdDataFrame2htmltable.html fill:aqua
 
 
