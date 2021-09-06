@@ -18,6 +18,10 @@ cognitive_load --> what_is_cognitiveload
 cognitive_load --> cognitiveload_theory
 
 
+centraengine.work --> pj
+pj --> user_guide
+pj --> example01
+
 centraengine.work--> knowledge_in[knowledge]
 knowledge_in --> dfd.html
 knowledge_in --> GithubApps_OAuthFlow.html
@@ -61,6 +65,10 @@ click centraengine.work "http://centraengine.work/home"
 style centraengine.work fill:aqua
 
 
+click user_guide "https://centraengine.work/knowledge/user_guide.html"
+style user_guide fill:aqua
+click example01 "https://centraengine.work/knowledge/example01.html"
+style example01 fill:aqua
 
 click dfd.html "https://centraengine.work/knowledge/dfd.html"
 style dfd.html fill:aqua
